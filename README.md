@@ -1,6 +1,12 @@
 Hi 👋 My name is Adrian Gryga
-=============================DevOps / Sys-Admin------------------* 🌍  I'm based in Cracow* 🧠  I'm learning Python, AWS* 🤝  I'm open to collaborating on Ansible, Kubernetes, Docker, PostgreSQL, Python, Bash
+=============================
 
+DevOps / Sys-Admin
+------------------
+
+*   🌍  I'm based in Cracow
+*   🧠  I'm learning Python, AWS
+*   🤝  I'm open to collaborating on Ansible, Kubernetes, Docker, PostgreSQL, Python, Bash
 ### Skills
 
 
